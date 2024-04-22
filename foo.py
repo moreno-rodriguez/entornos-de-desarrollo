@@ -4,4 +4,7 @@ def foo():
 def foo2():
     pass
 
+def foo3():
+    pass
+
 print('lorem ipsum')
